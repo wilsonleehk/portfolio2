@@ -1,0 +1,27 @@
+#get-in-touch-form blockquote {
+	background-color: lightgreen;
+}
+
+.tiles article.musicbee > .image:before {
+	background-color: #001bc0;
+}
+
+.tiles article.zotac > .image:before {
+	background-color: #fd0;
+}
+
+.tiles article.hyundai > .image:before {
+	background-color: #666;
+}
+
+.tiles article.riverview > .image:before {
+	background-color: #ffee00;
+}
+
+.tiles article.vitagreen-hk > .image:before {
+	background-color: #f7a600;
+}
+
+.tiles article.vitagreen-int > .image:before {
+	background-color: #669d25;
+}
